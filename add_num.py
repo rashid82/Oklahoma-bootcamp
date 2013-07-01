@@ -7,3 +7,5 @@ def main():
 if __name__ == "__main__":
 main()
 
+""" This short program just adds numbers."""
+
